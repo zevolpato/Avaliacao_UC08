@@ -1,4 +1,7 @@
 # Avaliacao_UC08
+1 - Criar a modelagem dessas telas abaixo no Workbench.
+2 - Criar o código SQl para a criação dos bancos
+3 - Criar os bancos modelados.
 
 <img width="960" alt="usuarioEnderecoTelefone" src="https://github.com/zevolpato/Avaliacao_UC08/assets/8071758/647e7346-e6d6-402f-b515-b64cc3b97a14">
 <img width="960" alt="rifa" src="https://github.com/zevolpato/Avaliacao_UC08/assets/8071758/c8882e1d-466e-4ff1-82c1-e44b3aeb8b75">
