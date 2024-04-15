@@ -1,4 +1,4 @@
-create database Imobiliaria
+create database Imobiliaria;
 use Imobiliaria;
 
 create table Cliente(
